@@ -1,6 +1,8 @@
 Banking System API Documentation
 ================================
 
+![coverage](readme_pic.png)
+
 Table of Contents
 -----------------
 
